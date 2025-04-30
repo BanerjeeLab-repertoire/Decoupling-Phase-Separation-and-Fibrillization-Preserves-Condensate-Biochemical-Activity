@@ -1,19 +1,7 @@
 # Decoupling-Phase-Separation-and-Fibrillization-Preserves-Activity-of-Biomolecular-Condensates
 The repository contains the codes used for processing and analyzing the microrheology data for the paper, "Decoupling Phase Separation and Fibrillization Preserves Condensate  Biochemical Activity".
 
-# Software 1: Fiji ImageJ v1.54f
-
-# System requirements
-
-Windows XP, Vista, 7, 8, 10, 11, etc.
-Mac OS X 10.8 “Mountain Lion” or later
-Linux on amd64 and x86 architectures
-
-# Installation guide
-
-You do not have to run an installer as Fiji is distributed as a portable application; just download, unpack, and start it using the application icon.
-
-# Software 2: Anaconda distribution v2024.10-1
+# Software: Anaconda distribution v2024.10-1
 
 # System requirements
 
@@ -35,8 +23,7 @@ Windows 10 or later, 64-bit macOS 10.15+ (for Intel) or 64-bit macOS 11.1+ (for 
 # For the determination of the mean square displacement (MSD) of the beads inside the condensate system, follow the steps below;
 1. Launch the Jupyter notebook using Anaconda Navigator
 2. In the Jupyter notebook, open the custom Python codes - "Video particle tracking nanorheology.ipynb"
-3. Run the code by providing the .xml file as input. A file named "Bead trajectories after tracking using Fiji.xml" is provided in the folder - Demo/MSD-determination. 
-The codes can also be run directly on the .xml file provided.
+3. Run the code by providing the .xml file as input. A file named "Bead trajectories after tracking using Fiji.xml" is provided in the folder - Demo/MSD-determination/. 
 
 # Expected outcome
 MSDs of the beads tracked in the condensates. The codes also allow you to estimate the viscosity of the condensate microenvironment.
