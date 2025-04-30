@@ -57,7 +57,7 @@ Complex moduli (Storage and loss moduli)
 # Expected run time for demo on a "normal" desktop computer
 For the entire demo (both MSD determination and estimation of complex moduli), it should take ~10 minutes. 
 
-# Instructions for use - Videos acquired with known acquisition parameters (number of frames and exposure time) can be processed to get the particle trajectory data using Fiji. The custom python codes can be used on trajectory data 
-with the input file format .xml to compute the particle MSDs and the complex moduli from the estimated MSDs.
+# Instructions for use
+Videos acquired with known acquisition parameters (number of frames and exposure time) can be processed to get the particle trajectory data using Fiji. The custom Python codes can be used on trajectory data with the input file format .xml to compute the particle MSDs and the complex moduli from the estimated MSDs.
 
 
