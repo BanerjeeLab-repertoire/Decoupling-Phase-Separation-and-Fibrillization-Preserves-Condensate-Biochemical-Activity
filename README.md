@@ -1,5 +1,5 @@
 # Decoupling-Phase-Separation-and-Fibrillization-Preserves-Activity-of-Biomolecular-Condensates
-The repository contains the codes used for processing and analyzing the microrheology data for the paper, "Decoupling Phase Separation and Fibrillization Preserves Condensate  Biochemical Activity".
+The repository contains the codes used for processing and analyzing the nanorheology data for the paper, "Decoupling Phase Separation and Fibrillization Preserves Condensate  Biochemical Activity".
 
 # Software: Anaconda distribution v2024.10-1
 
