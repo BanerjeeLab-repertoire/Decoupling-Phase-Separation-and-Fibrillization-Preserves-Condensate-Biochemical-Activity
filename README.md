@@ -44,15 +44,18 @@ Windows 10 or later, 64-bit macOS 10.15+ (for Intel) or 64-bit macOS 11.1+ (for 
 5. Run the code by providing the .xml file as input, which was generated as the output from step 2. For convenience, the output file from step 2, named "Bead trajectories after tracking using Fiji," is also provided in the folder - \Data set\MSD determination. 
 The codes can also be run directly on the .xml file provided.
 
-# Expected outcome - MSDs of the beads tracked in the condensates. The codes also allow you to estimate the viscosity of the condensate microenvironment.
+# Expected outcome
+MSDs of the beads tracked in the condensates. The codes also allow you to estimate the viscosity of the condensate microenvironment.
 
 # For estimation of the complex moduli from MSDs 
 1. Open the custom Python codes - "Determination of complex moduli from MSDs using Evans method.ipynb" in the Jupyter notebook from the folder - \Code and software\Python codes 
 2. The .xml file provided in the folder - /Data set/Complex moduli determination should be used as an input by providing the address of the file in the code
 
-# Expected outcome - Complex moduli (Storage and loss moduli)
+# Expected outcome 
+Complex moduli (Storage and loss moduli)
 
-# Expected run time for demo on a "normal" desktop computer - For the entire demo (both MSD determination and estimation of complex moduli), it should take ~10 minutes. 
+# Expected run time for demo on a "normal" desktop computer
+For the entire demo (both MSD determination and estimation of complex moduli), it should take ~10 minutes. 
 
 # Instructions for use - Videos acquired with known acquisition parameters (number of frames and exposure time) can be processed to get the particle trajectory data using Fiji. The custom python codes can be used on trajectory data 
 with the input file format .xml to compute the particle MSDs and the complex moduli from the estimated MSDs.
